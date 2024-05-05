@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yawar Khan, a Data Science major at Rutgers University!
   - I’m interested in coding, problem-solving, working out, and having a great time!
-  - I’m currently learning SQL and Python!
+  - I’m currently learning SQL and C++!
   - I’m looking to collaborate on projects that work with data acquisition and analysis! 
 - 📫 How to reach me:
   - email: Kirito11400@gmail.com
